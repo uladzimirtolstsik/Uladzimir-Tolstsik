@@ -8,3 +8,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=uladzimirtolstsik&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="600" height="300"/>
+</div>
